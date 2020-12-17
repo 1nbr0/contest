@@ -7,18 +7,12 @@
 """
 width=24
 
-def triangle1(n):
-    for size in range(1, n + 1, 2):
+def triangles(t, m, b):
+    for size in range(1, t + 1, 2):
+        print((size * "*").center(width))
+    for size in range(3, m + 1, 4):
+        print((size * "*").center(width))
+    for size in range(5, b + 1, 6):
         print((size * "*").center(width))
 
-def triangle2(n):
-    for size in range(3, n + 1, 4):
-        print((size * "*").center(width))
-        
-def triangle3(n):
-    for size in range(5, n + 1, 6):
-        print((size * "*").center(width))
-
-triangle1(8)
-triangle2(16)
-triangle3(24)
+triangles(8, 16, 24)
