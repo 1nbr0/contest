@@ -1,6 +1,6 @@
 """
     Christmas tree
-    NIVEAU 1
+    NIVEAU 2
     Robin TURPIN & Tudi MOUGEOT
     17 et 18 décembre 2020
     python 3.7
@@ -19,6 +19,11 @@ def triangle3(n):
     for size in range(5, n + 1, 6):
         print((size * "*").center(width))
 
+def trunc(n):
+    for size in range(n):
+        print((5 * "*").center(width))
+
 triangle1(8)
 triangle2(16)
 triangle3(24)
+trunc(3)
