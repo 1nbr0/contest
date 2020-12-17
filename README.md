@@ -11,9 +11,9 @@ En colaboration avec Tudi MOUGEOT.
 ### Python3 - Rendu niveaux
 
 - Niveau 1 - Le sapin à 3 étages
-- Niveau 2
-- Niveau 3
-- Niveau 4
-- Niveau 5
+- Niveau 2 - Tronc
+- Niveau 3 - Guirlandes
+- Niveau 4 - Boules de noël
+- Niveau 5 - L’étoile finale de la mort !
 - Bonus 1
 - Bonus 2
