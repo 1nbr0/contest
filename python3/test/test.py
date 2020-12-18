@@ -19,7 +19,7 @@ def triangles(t, m, b):
     for size in range(7, m + 1, 4):
         print((size * "*").center(width))
     for size in range(5, 5 + 1, 4):
-        print(("0    " + size * "*" + "    0").center(width))
+        print(("0" + ( " " * 4 ) + size * "*" + ( " " * 4 ) + "0").center(width))
     for size in range(11, b + 1, 6):
         print((size * "*").center(width))
 
