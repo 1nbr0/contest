@@ -15,15 +15,8 @@ En colaboration avec Tudi MOUGEOT.
 
 ## 3 - Sommaire
 
-### 3.1 - [Pseudo-Code](pseudo-code).
 
-- [Pseudo-Code du niveau 1](pseudo-code/pseudo_code_1) - Le sapin à 3 étages.
-- [Pseudo-Code du niveau 2](pseudo-code/pseudo_code_2) - Tronc.
-- [Pseudo-Code du niveau 3](pseudo-code/pseudo_code_3) - Guirlandes.
-- [Pseudo-Code du niveau 4](pseudo-code/pseudo_code_4) - Boules de noël.
-- [Pseudo-Code du niveau 5](pseudo-code/pseudo_code_5) - L’étoile finale de la mort !
-
-### 3.2 - [Python3](python3) - Rendu niveaux.
+### 3.1 - [Python3](python3) - Rendu niveaux.
 
 - [Niveau 1](python3/niveau_1) - Le sapin à 3 étages.
 - [Niveau 2](python3/niveau_2) - Tronc.
@@ -33,7 +26,7 @@ En colaboration avec Tudi MOUGEOT.
 - Bonus 1
 - Bonus 2
 
-### 3.3 - [Computer Fundamentals](computer_fundamentals).
+### 3.2 - [Computer Fundamentals](computer_fundamentals).
 
 - Voici la partie dédié sur le travail de documentation de l’installation d’un Git sur un VM locale (Windows et/ou Linux)
   protégée par un routeur PFSENSE.
