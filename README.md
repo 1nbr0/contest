@@ -9,9 +9,11 @@ noël de Campus Academy.***
 Par groupe de deux. Livrable en collaboration en utilisant GIT et en déposant votre rendu
 sur GitHub ou GitLab par exemple.
 
+- [Sujet du Contest](sujet_contest).
+
 ## 2 - Colaborateur.
 
-En colaboration avec Tudi MOUGEOT.
+Tudi MOUGEOT & Robin TURPIN
 
 ## 3 - Sommaire
 

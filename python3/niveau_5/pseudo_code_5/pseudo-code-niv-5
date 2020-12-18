@@ -1,5 +1,8 @@
-//Pseudo-code-niveau-5
+// Projet : Sapin de Noël
+// Réalisé par Robin TURPIN et Tudi MOUGEOT
+// Pseudo-code-niveau-5
 
+INPUT : rien
 OUTPUT : un sapin à trois étages + le tronc du sapin + les guirlandes + les boules de Noël + l'étoile de la mort
 
 VAR
