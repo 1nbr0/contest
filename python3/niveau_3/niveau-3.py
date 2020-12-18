@@ -1,11 +1,12 @@
+# -*- coding:latin1 -*
 """
     Christmas tree
     NIVEAU 3
     Robin TURPIN & Tudi MOUGEOT
-    17 et 18 dÃ©cembre 2020
+    17 et 18 décembre 2020
     python 3.7
 """
-width=24
+width=23
 
 def triangles(t, m, b):
     for size in range(1, t + 1, 2):
