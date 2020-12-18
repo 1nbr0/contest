@@ -1,5 +1,8 @@
 width=24
 
+def star():
+    for
+
 def triangles(t, m, b):
     for size in range(1, t + 1, 2):
         print((size * "*").center(width))
