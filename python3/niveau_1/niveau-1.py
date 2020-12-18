@@ -6,7 +6,7 @@
     17 et 18 décembre 2020
     python 3.7
 """
-
+import sys
 """
      Initialisations des constantes :
 """

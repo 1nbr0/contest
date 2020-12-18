@@ -13,20 +13,25 @@ sur GitHub ou GitLab par exemple.
 
 ## 2 - Colaborateur.
 
-Tudi MOUGEOT & Robin TURPIN
+Tudi MOUGEOT & Robin TURPIN.
+
+Tudi à réalisé tout la partie Computer Fundamentals.
+Robin à rélasié la partie Python et GitHub.
 
 ## 3 - Sommaire
 
 
 ### 3.1 - [Python3](python3) - Rendu niveaux.
 
+- ***Nayant pas vu en cours le fait de pouvoir exécuter notre programme Python en ligne de commande, et après plusieurs recherches pour compléter ce critère, on ne parvient pas à obtenir le résultat attendu.***
+
 - [Niveau 1](python3/niveau_1) - Le sapin à 3 étages.
 - [Niveau 2](python3/niveau_2) - Tronc.
 - [Niveau 3](python3/niveau_3) - Guirlandes.
 - [Niveau 4](python3/niveau_4) - Boules de noël.
 - [Niveau 5](python3/niveau_5) - L’étoile finale de la mort !
-- Bonus 1
-- Bonus 2
+- Bonus 1 - Un sapin plus grand !
+- Bonus 2 - Beaucoup de sapins !
 
 ### 3.2 - [Computer Fundamentals](computer_fundamentals).
 
