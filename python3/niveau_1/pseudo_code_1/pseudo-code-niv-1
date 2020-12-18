@@ -1,0 +1,22 @@
+# Pseudo-code-niveau-1
+
+INPUT : un nombre entier
+OUTPUT : une suite de triangle d'étoile de plus en plus grand
+
+VAR
+	width=23 : integer;
+
+PROCEDURE triangles(t, m, b : integer)
+BEGIN
+    FOR size in range(1, t + 1, 2)
+        print((size * "*").center(width)) ;
+    FOR size in range(3, m + 1, 4)
+        print((size * "*").center(width)) ;
+    FOR size in range(5, b + 1, 6)
+        print((size * "*").center(width)) ;
+END
+
+//Programme principale
+BEGIN
+	triangles(8, 16, 24)
+END
