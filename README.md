@@ -19,19 +19,19 @@ En colaboration avec Tudi MOUGEOT.
 
 ### 3.1 - [Pseudo-Code](pseudo-code).
 
-- [Pseudo-Code du niveau 1](pseudo_code_1) - Le sapin à 3 étages.
-- [Pseudo-Code du niveau 2](pseudo_code_2) - Tronc.
-- [Pseudo-Code du niveau 3](pseudo_code_3) - Guirlandes.
-- [Pseudo-Code du niveau 4](pseudo_code_4) - Boules de noël.
-- [Pseudo-Code du niveau 5](pseudo_code_5) - L’étoile finale de la mort !
+- [Pseudo-Code du niveau 1](pseudo-code/pseudo_code_1) - Le sapin à 3 étages.
+- [Pseudo-Code du niveau 2](pseudo-code/pseudo_code_2) - Tronc.
+- [Pseudo-Code du niveau 3](pseudo-code/pseudo_code_3) - Guirlandes.
+- [Pseudo-Code du niveau 4](pseudo-code/pseudo_code_4) - Boules de noël.
+- [Pseudo-Code du niveau 5](pseudo-code/pseudo_code_5) - L’étoile finale de la mort !
 
 ### 3.2 - [Python3](python3) - Rendu niveaux.
 
-- [Niveau 1](niveau_1) - Le sapin à 3 étages.
-- [Niveau 2](niveau_2) - Tronc.
-- [Niveau 3](niveau_3) - Guirlandes.
-- [Niveau 4](niveau_4) - Boules de noël.
-- [Niveau 5](niveau_5) - L’étoile finale de la mort !
+- [Niveau 1](python3/niveau_1) - Le sapin à 3 étages.
+- [Niveau 2](python3/niveau_2) - Tronc.
+- [Niveau 3](python3/niveau_3) - Guirlandes.
+- [Niveau 4](python3/niveau_4) - Boules de noël.
+- [Niveau 5](python3/niveau_5) - L’étoile finale de la mort !
 - Bonus 1
 - Bonus 2
 
@@ -39,4 +39,4 @@ En colaboration avec Tudi MOUGEOT.
 
 - Voici la partie dédié sur le travail de documentation de l’installation d’un Git sur un VM locale (Windows et/ou Linux)
   protégée par un routeur PFSENSE.
-  Veuilez cliquer ici --> [Documentation Réseaux](documentation_reseaux.docx) <-- pour afficher le travail.
+  Veuilez cliquer ici --> [Documentation Réseaux](computer_fundamentals/documentation_reseaux.docx) <-- pour afficher le travail.
