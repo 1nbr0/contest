@@ -6,8 +6,16 @@
     17 et 18 décembre 2020
     python 3.7
 """
+
+"""
+     Initialisations des constantes :
+"""
 width=23
 
+"""
+    Cette procédure permet d'afficher un sapin à trois étages.
+    On ne demande pas à l'utilisateur de rentrer le nombre d'étages qu'il veut.
+"""
 def triangles(t, m, b):
     for size in range(1, t + 1, 2):
         print((size * "*").center(width))
@@ -15,5 +23,10 @@ def triangles(t, m, b):
         print((size * "*").center(width))
     for size in range(5, b + 1, 6):
         print((size * "*").center(width))
-
-triangles(8, 16, 24)
+        
+"""
+    Programme principal
+"""        
+def main():
+    triangles(8, 16, 24)
+main()

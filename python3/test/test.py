@@ -33,7 +33,9 @@ def trunc(n):
     for i in range(n):
         print((5 * "*").center(width))
         
-star(1)
-triangles(8, 16, 24)
-tinsel(1)
-trunc(1)
+def main():        
+    star(1)
+    triangles(8, 16, 24)
+    tinsel(1)
+    trunc(1)
+main()
