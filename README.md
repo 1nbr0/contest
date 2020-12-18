@@ -1,6 +1,4 @@
-# contest.
-
-# CHRISTMAS TREE - Projet, B1 SWITCH IT, se déroulant du 17/12/2020 au 18/12/2020.
+# CONTEST - CHRISTMAS TREE - Projet, B1 SWITCH IT, se déroulant du 17/12/2020 au 18/12/2020.
 
 ## 1 - Travail à réaliser
 
